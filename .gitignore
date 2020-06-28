@@ -4,8 +4,11 @@ test/
 android/
 ios/
 README.md
+firebase.json
+.firebaserc
 
 # Miscellaneous
+*.cache
 *.class
 *.log
 *.pyc
